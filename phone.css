@@ -1,0 +1,119 @@
+body{
+    width: 100%;
+}
+
+.splash{
+    z-index: 20;
+    width: 100%;
+}
+
+.splash-fade-in {
+    position: relative;
+    margin-top: 1em;
+    height: 250px;
+    width: 400px;
+    margin-left: -2em;
+}
+
+#navtop{
+    display: none;
+}
+
+.navi{
+    flex-direction: row;
+    left: 20px;
+}
+
+#home1{
+    flex-direction: column;
+    width: 100%;
+    height: 38em;
+}
+
+#home1-header{
+    flex-direction: column;
+}
+
+#home1-header h1 {
+    font-size: 30px;
+    width: 100%;
+    padding-bottom: 0px;
+}
+
+#reload{
+    display: none;
+}
+
+.logo{
+    display: none;
+}
+
+#home-img img{
+    position: relative;
+    top: 0;
+    width: 100%;
+}
+
+#home2-content{
+    flex-direction: column;
+}
+
+#redbox{
+    height: 735px;
+    width: 22em;
+    margin-left: 10px;
+}
+
+#home2 h1{
+    margin-left: 1em;
+    font-size: 20px;
+}
+
+#samosabgimg1{
+    position: relative;
+    height: 345px;
+    width: 501px;
+    margin-left: -65px;
+}
+
+#sliding-image{
+    margin-top: -312px;
+    left: 49px;
+}
+
+#home3{
+    height: 30em;
+}
+
+#home3 h4 {
+    font-size: 30px;
+    padding-left: 3em;
+}
+
+#home3 p{
+    margin-left: 1em;
+}
+
+#logohome3 {
+    height: 3em;
+    width: 3em;
+    left: 17em;
+    margin-top: -6.5em;
+}
+
+#samosabgimg2 {
+    height: 277px;
+    margin-left: 0;
+    width: 100%;
+}
+
+#fgsamosa {
+    height: 10em;
+    width: 10em;
+    margin-left: -17em;
+    margin-top: 5em;
+}
+
+.slider h1{
+    font-size: 20px;
+}
